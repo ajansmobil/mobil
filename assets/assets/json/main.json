@@ -1,0 +1,13 @@
+{
+  "project": {
+    "id": "com.ajansmobil.matrix_admin_remote",
+    "name": "Mobil",
+    "baseUrl": "https://api-admin.ajansmobil.com"
+  },
+  "langs": ["tr", "en"],
+  "lang_names": {
+    "tr": "Türkçe",
+    "en": "English"
+  },
+  "default": "tr"
+}

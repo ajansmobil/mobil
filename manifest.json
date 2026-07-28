@@ -1,11 +1,11 @@
 {
-    "name": "matrix_admin_remote",
-    "short_name": "matrix_admin_remote",
+    "name": "Mobil",
+    "short_name": "Mobil",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#292a2d",
+    "theme_color": "#2196f3",
+    "description": "Ajans mobil uygulamasi",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

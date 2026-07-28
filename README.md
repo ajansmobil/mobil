@@ -1,15 +1,5 @@
-﻿# ajansmobil/mobil — Flutter web (Render static)
+# mobil
 
-Canli UI: **admin.ajansmobil.com** (Render static site)
-API: **api.admin.ajansmobil.com** (Cloudflare Worker)
+Flutter web uygulamasi — [mobil.ajansmobil.com](https://mobil.ajansmobil.com)
 
-Build kaynagi: yunusevgane/matrixMobil — `.github/workflows/hosting.yml` push sonrasi bu repoya aktarilir.
-
-## Render
-
-`render.yaml` — CI build tamamlandiktan sonra static publish (SPA rewrite `/* -> /index.html`).
-
-## DNS
-
-- `admin.ajansmobil.com` → Render CNAME
-- `api.admin.ajansmobil.com` → Cloudflare Worker (proxied)
+Bu depo yalnizca statik web ciktisini icerir (GitHub Pages).
